@@ -1,7 +1,4 @@
 # Hi there 👋 I'm Tekla Gogua
-<div align="center">
-  <img src="https://raw.githubusercontent.com/teklaGogua/teklaGogua/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
 
 🚀 **Frontend Developer** | 🎓 **CS Student @ Ilia State University** | 💻 **Code Enthusiast**
 
