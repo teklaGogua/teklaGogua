@@ -2,7 +2,7 @@
 
 🚀 **Frontend Developer** | 🎓 **CS Student @ Ilia State University** | 💻 **Code Enthusiast**
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=teklaGogua&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=teklaGogua&theme=radical)](https://git.io/streak-stats)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=teklaGogua&show_icons=true&theme=radical)](https://github.com/teklaGogua)
 
 ## 🛠️ Technologies & Tools
@@ -32,9 +32,9 @@
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| [RoomMates](teklagogua.github.io/Roommate/) |Full-stack website | Our platform ensures you find someone who matches your needs |
-| [Tourist Landing Page](https://teklagogua.github.io/Tourist-Landing-Page/) | Html, Css, Js | Solid responsive webiste with cool features |
-| [Addiction Studies](https://mind1a.github.io/addictionStudies/) | Html, Scss, Js | Website for Ilia State University Tomasz Zabranski Institute of Addictionology |
+| [RoomMates](teklagogua.github.io/Roommate/) | Our platform ensures you find someone who matches your needs | Html, Scss, Js, Postgres, Postgres, PostgreSQL |
+| [Tourist Landing Page](https://teklagogua.github.io/Tourist-Landing-Page/) | Solid responsive webiste with cool features | Html, Css, Js |
+| [Addiction Studies](https://mind1a.github.io/addictionStudies/) | Website for Ilia State University Tomasz Zabranski Institute of Addictionology | Html, Scss, Js |
 
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tekla-gogua-223a1831a/)
@@ -43,4 +43,4 @@
 ## 💡 Fun Fact
 ⚡ git commit -m "Initial commit: Because every great movie (and repo) needs a strong opening scene."
 
-[![Visitors](https://visitor-badge.laobi.website/badge?page_id=YourUsername.YourUsername)](https://github.com/teklaGogua)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https://github.com/teklaGogua&label=Visitors&countColor=%23263759)](https://visitorbadge.io/status?path=https://github.com/teklaGogua)
