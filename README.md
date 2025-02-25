@@ -39,7 +39,4 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tekla-gogua-223a1831a/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tekla.gogua.2006@gmail.com)
 
-## 💡 Fun Fact
 ⚡ git commit -m "Initial commit: Because every great movie (and repo) needs a strong opening scene."
-
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https://github.com/teklaGogua&label=Visitors&countColor=%23263759)](https://visitorbadge.io/status?path=https://github.com/teklaGogua)
