@@ -1,8 +1,8 @@
-# Hi there 👋 I'm [Your Name]
+# Hi there 👋 I'm Tekla Gogua
 
 🚀 **Frontend Developer** | 🎓 **CS Student @ Ilia State University** | 💻 **Code Enthusiast**
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YourUsername&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=teklaGogua&theme=radical)](https://git.io/streak-stats)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=teklaGogua&show_icons=true&theme=radical)](https://github.com/teklaGogua)
 
 ## 🛠️ Technologies & Tools
