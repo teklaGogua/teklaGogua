@@ -15,11 +15,11 @@
 
 ### Other Technologies
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## 📚 Currently Learning
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 
 ## 🎓 Education
 - **BSc in Computer Science**  
